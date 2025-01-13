@@ -30,3 +30,6 @@ The following machine learning models were evaluated:
 - Support Vector Machine
 - K-Nearest Neighbors
 - Random Forest
+Evaluation metric such as accuracy was compared across models. Below is a visualization of the results:
+
+![Model Evaluation](https://github.com/MohamedAbdelbastBakr/Heart-Disease-Prediction/issues/1#issue-2784078463)
